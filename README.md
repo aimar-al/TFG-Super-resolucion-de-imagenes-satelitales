@@ -23,6 +23,7 @@ alucinaciones y la dificultad de garantizar una fidelidad cercana a la realidad.
 
 <img width="5662" height="8400" alt="mosaico_global1" src="https://github.com/user-attachments/assets/d479ff73-551f-4838-91ae-78aeb9c90b26" />
 <img width="5239" height="8400" alt="mosaico_global2" src="https://github.com/user-attachments/assets/4e5b7644-64dc-4c80-8cc9-ca4b9884705e" />
+<img width="1402" height="373" alt="image1" src="https://github.com/user-attachments/assets/f96627f8-2903-41c0-b44b-b6e29b2e63e8" />
 
 
 para duplicar el entorno conda en una maquina linux:   
